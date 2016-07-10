@@ -1,0 +1,75 @@
+Pclass=1	count=216
+Pclass=1	Sex=female	count=94
+Pclass=1	Sex=female	Survived=live	count=91
+Pclass=1	Sex=male	count=122
+Pclass=1	Age=adult	count=147
+Pclass=1	Age=adult	Survived=live	count=101
+Pclass=1	Relatives=haskins	count=107
+Pclass=1	Relatives=nokins	count=109
+Pclass=1	Survived=live	count=136
+Pclass=2	count=184
+Pclass=2	Sex=male	count=108
+Pclass=2	Sex=male	Survived=dead	count=91
+Pclass=2	Age=adult	count=142
+Pclass=2	Relatives=nokins	count=104
+Pclass=2	Survived=dead	count=97
+Pclass=3	count=491
+Pclass=3	Sex=female	count=144
+Pclass=3	Sex=male	count=347
+Pclass=3	Sex=male	Age=adult	count=204
+Pclass=3	Sex=male	Age=adult	Relatives=nokins	count=171
+Pclass=3	Sex=male	Age=adult	Relatives=nokins	Survived=dead	count=146
+Pclass=3	Sex=male	Age=adult	Survived=dead	count=176
+Pclass=3	Sex=male	Relatives=nokins	count=264
+Pclass=3	Sex=male	Relatives=nokins	Survived=dead	count=232
+Pclass=3	Sex=male	Survived=dead	count=300
+Pclass=3	Age=adult	count=270
+Pclass=3	Age=adult	Relatives=nokins	count=200
+Pclass=3	Age=adult	Relatives=nokins	Survived=dead	count=161
+Pclass=3	Age=adult	Survived=dead	count=215
+Pclass=3	Relatives=haskins	count=167
+Pclass=3	Relatives=haskins	Survived=dead	count=117
+Pclass=3	Relatives=nokins	count=324
+Pclass=3	Relatives=nokins	Survived=dead	count=255
+Pclass=3	Survived=dead	count=372
+Pclass=3	Survived=live	count=119
+Sex=female	count=314
+Sex=female	Age=adult	count=196
+Sex=female	Age=adult	Relatives=haskins	count=113
+Sex=female	Age=adult	Survived=live	count=150
+Sex=female	Relatives=haskins	count=188
+Sex=female	Relatives=haskins	Survived=live	count=134
+Sex=female	Relatives=nokins	count=126
+Sex=female	Relatives=nokins	Survived=live	count=99
+Sex=female	Survived=live	count=233
+Sex=male	count=577
+Sex=male	Age=adult	count=363
+Sex=male	Age=adult	Relatives=haskins	count=97
+Sex=male	Age=adult	Relatives=nokins	count=266
+Sex=male	Age=adult	Relatives=nokins	Survived=dead	count=219
+Sex=male	Age=adult	Survived=dead	count=297
+Sex=male	Relatives=haskins	count=166
+Sex=male	Relatives=haskins	Survived=dead	count=121
+Sex=male	Relatives=nokins	count=411
+Sex=male	Relatives=nokins	Survived=dead	count=347
+Sex=male	Survived=dead	count=468
+Sex=male	Survived=live	count=109
+Age=adult	count=559
+Age=adult	Relatives=haskins	count=210
+Age=adult	Relatives=haskins	Survived=dead	count=106
+Age=adult	Relatives=haskins	Survived=live	count=104
+Age=adult	Relatives=nokins	count=349
+Age=adult	Relatives=nokins	Survived=dead	count=237
+Age=adult	Relatives=nokins	Survived=live	count=112
+Age=adult	Survived=dead	count=343
+Age=adult	Survived=live	count=216
+Age=teen	count=113
+Age=teen	Relatives=haskins	count=90
+Relatives=haskins	count=354
+Relatives=haskins	Survived=dead	count=175
+Relatives=haskins	Survived=live	count=179
+Relatives=nokins	count=537
+Relatives=nokins	Survived=dead	count=374
+Relatives=nokins	Survived=live	count=163
+Survived=dead	count=549
+Survived=live	count=342

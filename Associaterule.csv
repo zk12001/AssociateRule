@@ -1,0 +1,28 @@
+0.102132   0.968085  2.522116  Pclass=1 Sex=female -> Survived=live  
+0.113356   0.687075  1.790011  Pclass=1 Age=adult -> Survived=live  
+0.152637   0.629630  1.640351  Pclass=1 -> Survived=live  
+0.102132   0.842593  1.367486  Pclass=2 Sex=male -> Survived=dead  
+0.108866   0.527174  0.855577  Pclass=2 -> Survived=dead  
+0.163861   0.853801  1.385677  Pclass=3 Sex=male Age=adult Relatives=nokins -> Survived=dead  
+0.197531   0.862745  1.400193  Pclass=3 Sex=male Age=adult -> Survived=dead  
+0.260382   0.878788  1.426229  Pclass=3 Sex=male Relatives=nokins -> Survived=dead  
+0.336700   0.864553  1.403128  Pclass=3 Sex=male -> Survived=dead  
+0.180696   0.805000  1.306475  Pclass=3 Age=adult Relatives=nokins -> Survived=dead  
+0.241302   0.796296  1.292350  Pclass=3 Age=adult -> Survived=dead  
+0.131313   0.700599  1.137037  Pclass=3 Relatives=haskins -> Survived=dead  
+0.286195   0.787037  1.277322  Pclass=3 Relatives=nokins -> Survived=dead  
+0.417508   0.757638  1.229608  Pclass=3 -> Survived=dead  
+0.168350   0.765306  1.993824  Sex=female Age=adult -> Survived=live  
+0.150393   0.712766  1.856943  Sex=female Relatives=haskins -> Survived=live  
+0.111111   0.785714  2.046993  Sex=female Relatives=nokins -> Survived=live  
+0.261504   0.742038  1.933205  Sex=female -> Survived=live  
+0.245791   0.823308  1.336189  Sex=male Age=adult Relatives=nokins -> Survived=dead  
+0.333333   0.818182  1.327869  Sex=male Age=adult -> Survived=dead  
+0.135802   0.728916  1.182994  Sex=male Relatives=haskins -> Survived=dead  
+0.389450   0.844282  1.370229  Sex=male Relatives=nokins -> Survived=dead  
+0.525253   0.811092  1.316362  Sex=male -> Survived=dead  
+0.118967   0.504762  0.819204  Age=adult Relatives=haskins -> Survived=dead  
+0.265993   0.679083  1.102118  Age=adult Relatives=nokins -> Survived=dead  
+0.384961   0.613596  0.995836  Age=adult -> Survived=dead  
+0.200898   0.505650  1.317351  Relatives=haskins -> Survived=live  
+0.419753   0.696462  1.130323  Relatives=nokins -> Survived=dead  

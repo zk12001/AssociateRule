@@ -1,0 +1,894 @@
+PassengerId	Survived	Pclass	Sex	Age	Relatives
+d	d	d	d	d	d
+	c
+1	dead	3	male	adult	haskins
+2	live	1	female	adult	haskins
+3	live	3	female	adult	nokins
+4	live	1	female	adult	haskins
+5	dead	3	male	adult	nokins
+6	dead	3	male		nokins
+7	dead	1	male	adult	nokins
+8	dead	3	male	teen	haskins
+9	live	3	female	adult	haskins
+10	live	2	female	teen	haskins
+11	live	3	female	teen	haskins
+12	live	1	female	old	nokins
+13	dead	3	male	adult	nokins
+14	dead	3	male	adult	haskins
+15	dead	3	female	teen	nokins
+16	live	2	female	old	nokins
+17	dead	3	male	teen	haskins
+18	live	2	male		nokins
+19	dead	3	female	adult	haskins
+20	live	3	female		nokins
+21	dead	2	male	adult	nokins
+22	live	2	male	adult	nokins
+23	live	3	female	teen	nokins
+24	live	1	male	adult	nokins
+25	dead	3	female	teen	haskins
+26	live	3	female	adult	haskins
+27	dead	3	male		nokins
+28	dead	1	male	adult	haskins
+29	live	3	female		nokins
+30	dead	3	male		nokins
+31	dead	1	male	adult	nokins
+32	live	1	female		haskins
+33	live	3	female		nokins
+34	dead	2	male	old	nokins
+35	dead	1	male	adult	haskins
+36	dead	1	male	adult	haskins
+37	live	3	male		nokins
+38	dead	3	male	adult	nokins
+39	dead	3	female	adult	haskins
+40	live	3	female	teen	haskins
+41	dead	3	female	adult	haskins
+42	dead	2	female	adult	haskins
+43	dead	3	male		nokins
+44	live	2	female	teen	haskins
+45	live	3	female	adult	nokins
+46	dead	3	male		nokins
+47	dead	3	male		haskins
+48	live	3	female		nokins
+49	dead	3	male		haskins
+50	dead	3	female	adult	haskins
+51	dead	3	male	teen	haskins
+52	dead	3	male	adult	nokins
+53	live	1	female	adult	haskins
+54	live	2	female	adult	haskins
+55	dead	1	male	old	haskins
+56	live	1	male		nokins
+57	live	2	female	adult	nokins
+58	dead	3	male	adult	nokins
+59	live	2	female	teen	haskins
+60	dead	3	male	teen	haskins
+61	dead	3	male	adult	nokins
+62	live	1	female	adult	nokins
+63	dead	1	male	adult	haskins
+64	dead	3	male	teen	haskins
+65	dead	1	male		nokins
+66	live	3	male		haskins
+67	live	2	female	adult	nokins
+68	dead	3	male	adult	nokins
+69	live	3	female	teen	haskins
+70	dead	3	male	adult	haskins
+71	dead	2	male	adult	nokins
+72	dead	3	female	teen	haskins
+73	dead	2	male	adult	nokins
+74	dead	3	male	adult	haskins
+75	live	3	male	adult	nokins
+76	dead	3	male	adult	nokins
+77	dead	3	male		nokins
+78	dead	3	male		nokins
+79	live	2	male	teen	haskins
+80	live	3	female	adult	nokins
+81	dead	3	male	adult	nokins
+82	live	3	male	adult	nokins
+83	live	3	female		nokins
+84	dead	1	male	adult	nokins
+85	live	2	female	teen	nokins
+86	live	3	female	adult	haskins
+87	dead	3	male	teen	haskins
+88	dead	3	male		nokins
+89	live	1	female	adult	haskins
+90	dead	3	male	adult	nokins
+91	dead	3	male	adult	nokins
+92	dead	3	male	adult	nokins
+93	dead	1	male	adult	haskins
+94	dead	3	male	adult	haskins
+95	dead	3	male	old	nokins
+96	dead	3	male		nokins
+97	dead	1	male	old	nokins
+98	live	1	male	adult	haskins
+99	live	2	female	adult	haskins
+100	dead	2	male	adult	haskins
+101	dead	3	female	adult	nokins
+102	dead	3	male		nokins
+103	dead	1	male	adult	haskins
+104	dead	3	male	adult	nokins
+105	dead	3	male	adult	haskins
+106	dead	3	male	adult	nokins
+107	live	3	female	adult	nokins
+108	live	3	male		nokins
+109	dead	3	male	adult	nokins
+110	live	3	female		haskins
+111	dead	1	male	adult	nokins
+112	dead	3	female	teen	haskins
+113	dead	3	male	adult	nokins
+114	dead	3	female	adult	haskins
+115	dead	3	female	teen	nokins
+116	dead	3	male	adult	nokins
+117	dead	3	male	old	nokins
+118	dead	2	male	adult	haskins
+119	dead	1	male	adult	haskins
+120	dead	3	female	teen	haskins
+121	dead	2	male	adult	haskins
+122	dead	3	male		nokins
+123	dead	2	male	adult	haskins
+124	live	2	female	adult	nokins
+125	dead	1	male	adult	haskins
+126	live	3	male	teen	haskins
+127	dead	3	male		nokins
+128	live	3	male	adult	nokins
+129	live	3	female		haskins
+130	dead	3	male	adult	nokins
+131	dead	3	male	adult	nokins
+132	dead	3	male	adult	nokins
+133	dead	3	female	adult	haskins
+134	live	2	female	adult	haskins
+135	dead	2	male	adult	nokins
+136	dead	2	male	adult	nokins
+137	live	1	female	adult	haskins
+138	dead	1	male	adult	haskins
+139	dead	3	male	teen	nokins
+140	dead	1	male	adult	nokins
+141	dead	3	female		haskins
+142	live	3	female	adult	nokins
+143	live	3	female	adult	haskins
+144	dead	3	male	adult	nokins
+145	dead	2	male	adult	nokins
+146	dead	2	male	adult	haskins
+147	live	3	male	adult	nokins
+148	dead	3	female	teen	haskins
+149	dead	2	male	adult	haskins
+150	dead	2	male	adult	nokins
+151	dead	2	male	adult	nokins
+152	live	1	female	adult	haskins
+153	dead	3	male	old	nokins
+154	dead	3	male	adult	haskins
+155	dead	3	male		nokins
+156	dead	1	male	adult	haskins
+157	live	3	female	teen	nokins
+158	dead	3	male	adult	nokins
+159	dead	3	male		nokins
+160	dead	3	male		haskins
+161	dead	3	male	adult	haskins
+162	live	2	female	adult	nokins
+163	dead	3	male	adult	nokins
+164	dead	3	male	teen	nokins
+165	dead	3	male	teen	haskins
+166	live	3	male	teen	haskins
+167	live	1	female		haskins
+168	dead	3	female	adult	haskins
+169	dead	1	male		nokins
+170	dead	3	male	adult	nokins
+171	dead	1	male	old	nokins
+172	dead	3	male	teen	haskins
+173	live	3	female	teen	haskins
+174	dead	3	male	adult	nokins
+175	dead	1	male	old	nokins
+176	dead	3	male	adult	haskins
+177	dead	3	male		haskins
+178	dead	1	female	adult	nokins
+179	dead	2	male	adult	nokins
+180	dead	3	male	adult	nokins
+181	dead	3	female		haskins
+182	dead	2	male		nokins
+183	dead	3	male	teen	haskins
+184	live	2	male	teen	haskins
+185	live	3	female	teen	haskins
+186	dead	1	male		nokins
+187	live	3	female		haskins
+188	live	1	male	adult	nokins
+189	dead	3	male	adult	haskins
+190	dead	3	male	adult	nokins
+191	live	2	female	adult	nokins
+192	dead	2	male	adult	nokins
+193	live	3	female	adult	haskins
+194	live	2	male	teen	haskins
+195	live	1	female	adult	nokins
+196	live	1	female	old	nokins
+197	dead	3	male		nokins
+198	dead	3	male	adult	haskins
+199	live	3	female		nokins
+200	dead	2	female	adult	nokins
+201	dead	3	male	adult	nokins
+202	dead	3	male		haskins
+203	dead	3	male	adult	nokins
+204	dead	3	male	adult	nokins
+205	live	3	male	adult	nokins
+206	dead	3	female	teen	haskins
+207	dead	3	male	adult	haskins
+208	live	3	male	adult	nokins
+209	live	3	female	teen	nokins
+210	live	1	male	adult	nokins
+211	dead	3	male	adult	nokins
+212	live	2	female	adult	nokins
+213	dead	3	male	adult	nokins
+214	dead	2	male	adult	nokins
+215	dead	3	male		haskins
+216	live	1	female	adult	haskins
+217	live	3	female	adult	nokins
+218	dead	2	male	adult	haskins
+219	live	1	female	adult	nokins
+220	dead	2	male	adult	nokins
+221	live	3	male	teen	nokins
+222	dead	2	male	adult	nokins
+223	dead	3	male	adult	nokins
+224	dead	3	male		nokins
+225	live	1	male	adult	haskins
+226	dead	3	male	adult	nokins
+227	live	2	male	adult	nokins
+228	dead	3	male	adult	nokins
+229	dead	2	male	adult	nokins
+230	dead	3	female		haskins
+231	live	1	female	adult	haskins
+232	dead	3	male	adult	nokins
+233	dead	2	male	old	nokins
+234	live	3	female	teen	haskins
+235	dead	2	male	adult	nokins
+236	dead	3	female		nokins
+237	dead	2	male	adult	haskins
+238	live	2	female	teen	haskins
+239	dead	2	male	adult	nokins
+240	dead	2	male	adult	nokins
+241	dead	3	female		haskins
+242	live	3	female		haskins
+243	dead	2	male	adult	nokins
+244	dead	3	male	adult	nokins
+245	dead	3	male	adult	nokins
+246	dead	1	male	adult	haskins
+247	dead	3	female	adult	nokins
+248	live	2	female	adult	haskins
+249	live	1	male	adult	haskins
+250	dead	2	male	adult	haskins
+251	dead	3	male		nokins
+252	dead	3	female	adult	haskins
+253	dead	1	male	old	nokins
+254	dead	3	male	adult	haskins
+255	dead	3	female	adult	haskins
+256	live	3	female	adult	haskins
+257	live	1	female		nokins
+258	live	1	female	adult	nokins
+259	live	1	female	adult	nokins
+260	live	2	female	adult	haskins
+261	dead	3	male		nokins
+262	live	3	male	teen	haskins
+263	dead	1	male	adult	haskins
+264	dead	1	male	adult	nokins
+265	dead	3	female		nokins
+266	dead	2	male	adult	nokins
+267	dead	3	male	teen	haskins
+268	live	3	male	adult	haskins
+269	live	1	female	old	haskins
+270	live	1	female	adult	nokins
+271	dead	1	male		nokins
+272	live	3	male	adult	nokins
+273	live	2	female	adult	haskins
+274	dead	1	male	adult	haskins
+275	live	3	female		nokins
+276	live	1	female	old	haskins
+277	dead	3	female	adult	nokins
+278	dead	2	male		nokins
+279	dead	3	male	teen	haskins
+280	live	3	female	adult	haskins
+281	dead	3	male	old	nokins
+282	dead	3	male	adult	nokins
+283	dead	3	male	teen	nokins
+284	live	3	male	adult	nokins
+285	dead	1	male		nokins
+286	dead	3	male	adult	nokins
+287	live	3	male	adult	nokins
+288	dead	3	male	adult	nokins
+289	live	2	male	adult	nokins
+290	live	3	female	adult	nokins
+291	live	1	female	adult	nokins
+292	live	1	female	adult	haskins
+293	dead	2	male	adult	nokins
+294	dead	3	female	adult	nokins
+295	dead	3	male	adult	nokins
+296	dead	1	male		nokins
+297	dead	3	male	adult	nokins
+298	dead	1	female	teen	haskins
+299	live	1	male		nokins
+300	live	1	female	adult	haskins
+301	live	3	female		nokins
+302	live	3	male		haskins
+303	dead	3	male	adult	nokins
+304	live	2	female		nokins
+305	dead	3	male		nokins
+306	live	1	male	teen	haskins
+307	live	1	female		nokins
+308	live	1	female	teen	haskins
+309	dead	2	male	adult	haskins
+310	live	1	female	adult	nokins
+311	live	1	female	adult	nokins
+312	live	1	female	adult	haskins
+313	dead	2	female	adult	haskins
+314	dead	3	male	adult	nokins
+315	dead	2	male	adult	haskins
+316	live	3	female	adult	nokins
+317	live	2	female	adult	haskins
+318	dead	2	male	adult	nokins
+319	live	1	female	adult	haskins
+320	live	1	female	adult	haskins
+321	dead	3	male	adult	nokins
+322	dead	3	male	adult	nokins
+323	live	2	female	adult	nokins
+324	live	2	female	adult	haskins
+325	dead	3	male		haskins
+326	live	1	female	adult	nokins
+327	dead	3	male	old	nokins
+328	live	2	female	adult	nokins
+329	live	3	female	adult	haskins
+330	live	1	female	teen	haskins
+331	live	3	female		haskins
+332	dead	1	male	adult	nokins
+333	dead	1	male	adult	haskins
+334	dead	3	male	teen	haskins
+335	live	1	female		haskins
+336	dead	3	male		nokins
+337	dead	1	male	adult	haskins
+338	live	1	female	adult	nokins
+339	live	3	male	adult	nokins
+340	dead	1	male	adult	nokins
+341	live	2	male	teen	haskins
+342	live	1	female	adult	haskins
+343	dead	2	male	adult	nokins
+344	dead	2	male	adult	nokins
+345	dead	2	male	adult	nokins
+346	live	2	female	adult	nokins
+347	live	2	female	adult	nokins
+348	live	3	female		haskins
+349	live	3	male	teen	haskins
+350	dead	3	male	adult	nokins
+351	dead	3	male	adult	nokins
+352	dead	1	male		nokins
+353	dead	3	male	teen	haskins
+354	dead	3	male	adult	haskins
+355	dead	3	male		nokins
+356	dead	3	male	adult	nokins
+357	live	1	female	adult	haskins
+358	dead	2	female	adult	nokins
+359	live	3	female		nokins
+360	live	3	female		nokins
+361	dead	3	male	adult	haskins
+362	dead	2	male	adult	haskins
+363	dead	3	female	adult	haskins
+364	dead	3	male	adult	nokins
+365	dead	3	male		haskins
+366	dead	3	male	adult	nokins
+367	live	1	female	old	haskins
+368	live	3	female		nokins
+369	live	3	female		nokins
+370	live	1	female	adult	nokins
+371	live	1	male	adult	haskins
+372	dead	3	male	adult	haskins
+373	dead	3	male	adult	nokins
+374	dead	1	male	adult	nokins
+375	dead	3	female	teen	haskins
+376	live	1	female		haskins
+377	live	3	female	adult	nokins
+378	dead	1	male	adult	haskins
+379	dead	3	male	adult	nokins
+380	dead	3	male	adult	nokins
+381	live	1	female	adult	nokins
+382	live	3	female	teen	haskins
+383	dead	3	male	adult	nokins
+384	live	1	female	adult	haskins
+385	dead	3	male		nokins
+386	dead	2	male	adult	nokins
+387	dead	3	male	teen	haskins
+388	live	2	female	adult	nokins
+389	dead	3	male		nokins
+390	live	2	female	teen	nokins
+391	live	1	male	adult	haskins
+392	live	3	male	adult	nokins
+393	dead	3	male	adult	haskins
+394	live	1	female	adult	haskins
+395	live	3	female	adult	haskins
+396	dead	3	male	adult	nokins
+397	dead	3	female	adult	nokins
+398	dead	2	male	adult	nokins
+399	dead	2	male	adult	nokins
+400	live	2	female	adult	nokins
+401	live	3	male	adult	nokins
+402	dead	3	male	adult	nokins
+403	dead	3	female	adult	haskins
+404	dead	3	male	adult	haskins
+405	dead	3	female	adult	nokins
+406	dead	2	male	adult	haskins
+407	dead	3	male	adult	nokins
+408	live	2	male	teen	haskins
+409	dead	3	male	adult	nokins
+410	dead	3	female		haskins
+411	dead	3	male		nokins
+412	dead	3	male		nokins
+413	live	1	female	adult	haskins
+414	dead	2	male		nokins
+415	live	3	male	adult	nokins
+416	dead	3	female		nokins
+417	live	2	female	adult	haskins
+418	live	2	female	adult	haskins
+419	dead	2	male	adult	nokins
+420	dead	3	female	teen	haskins
+421	dead	3	male		nokins
+422	dead	3	male	adult	nokins
+423	dead	3	male	adult	nokins
+424	dead	3	female	adult	haskins
+425	dead	3	male	adult	haskins
+426	dead	3	male		nokins
+427	live	2	female	adult	haskins
+428	live	2	female	adult	nokins
+429	dead	3	male		nokins
+430	live	3	male	adult	nokins
+431	live	1	male	adult	nokins
+432	live	3	female		haskins
+433	live	2	female	adult	haskins
+434	dead	3	male	teen	nokins
+435	dead	1	male	adult	haskins
+436	live	1	female	teen	haskins
+437	dead	3	female	adult	haskins
+438	live	2	female	adult	haskins
+439	dead	1	male	old	haskins
+440	dead	2	male	adult	nokins
+441	live	2	female	adult	haskins
+442	dead	3	male	adult	nokins
+443	dead	3	male	adult	haskins
+444	live	2	female	adult	nokins
+445	live	3	male		nokins
+446	live	1	male	teen	haskins
+447	live	2	female	teen	haskins
+448	live	1	male	adult	nokins
+449	live	3	female	teen	haskins
+450	live	1	male	adult	nokins
+451	dead	2	male	adult	haskins
+452	dead	3	male		haskins
+453	dead	1	male	adult	nokins
+454	live	1	male	adult	haskins
+455	dead	3	male		nokins
+456	live	3	male	adult	nokins
+457	dead	1	male	old	nokins
+458	live	1	female		haskins
+459	live	2	female	adult	nokins
+460	dead	3	male		nokins
+461	live	1	male	adult	nokins
+462	dead	3	male	adult	nokins
+463	dead	1	male	adult	nokins
+464	dead	2	male	adult	nokins
+465	dead	3	male		nokins
+466	dead	3	male	adult	nokins
+467	dead	2	male		nokins
+468	dead	1	male	old	nokins
+469	dead	3	male		nokins
+470	live	3	female	teen	haskins
+471	dead	3	male		nokins
+472	dead	3	male	adult	nokins
+473	live	2	female	adult	haskins
+474	live	2	female	adult	nokins
+475	dead	3	female	adult	nokins
+476	dead	1	male		nokins
+477	dead	2	male	adult	haskins
+478	dead	3	male	adult	haskins
+479	dead	3	male	adult	nokins
+480	live	3	female	teen	haskins
+481	dead	3	male	teen	haskins
+482	dead	2	male		nokins
+483	dead	3	male	adult	nokins
+484	live	3	female	old	nokins
+485	live	1	male	adult	haskins
+486	dead	3	female		haskins
+487	live	1	female	adult	haskins
+488	dead	1	male	old	nokins
+489	dead	3	male	adult	nokins
+490	live	3	male	teen	haskins
+491	dead	3	male		haskins
+492	dead	3	male	adult	nokins
+493	dead	1	male	old	nokins
+494	dead	1	male	old	nokins
+495	dead	3	male	adult	nokins
+496	dead	3	male		nokins
+497	live	1	female	adult	haskins
+498	dead	3	male		nokins
+499	dead	1	female	adult	haskins
+500	dead	3	male	adult	nokins
+501	dead	3	male	teen	nokins
+502	dead	3	female	adult	nokins
+503	dead	3	female		nokins
+504	dead	3	female	adult	nokins
+505	live	1	female	teen	nokins
+506	dead	1	male	adult	haskins
+507	live	2	female	adult	haskins
+508	live	1	male		nokins
+509	dead	3	male	adult	nokins
+510	live	3	male	adult	nokins
+511	live	3	male	adult	nokins
+512	dead	3	male		nokins
+513	live	1	male	adult	nokins
+514	live	1	female	adult	haskins
+515	dead	3	male	adult	nokins
+516	dead	1	male	adult	nokins
+517	live	2	female	adult	nokins
+518	dead	3	male		nokins
+519	live	2	female	adult	haskins
+520	dead	3	male	adult	nokins
+521	live	1	female	adult	nokins
+522	dead	3	male	adult	nokins
+523	dead	3	male		nokins
+524	live	1	female	adult	haskins
+525	dead	3	male		nokins
+526	dead	3	male	adult	nokins
+527	live	2	female	adult	nokins
+528	dead	1	male		nokins
+529	dead	3	male	adult	nokins
+530	dead	2	male	adult	haskins
+531	live	2	female	teen	haskins
+532	dead	3	male		nokins
+533	dead	3	male	teen	haskins
+534	live	3	female		haskins
+535	dead	3	female	adult	nokins
+536	live	2	female	teen	haskins
+537	dead	1	male	adult	nokins
+538	live	1	female	adult	nokins
+539	dead	3	male		nokins
+540	live	1	female	adult	haskins
+541	live	1	female	adult	haskins
+542	dead	3	female	teen	haskins
+543	dead	3	female	teen	haskins
+544	live	2	male	adult	haskins
+545	dead	1	male	adult	haskins
+546	dead	1	male	old	nokins
+547	live	2	female	adult	haskins
+548	live	2	male		nokins
+549	dead	3	male	adult	haskins
+550	live	2	male	teen	haskins
+551	live	1	male	teen	haskins
+552	dead	2	male	adult	nokins
+553	dead	3	male		nokins
+554	live	3	male	adult	nokins
+555	live	3	female	adult	nokins
+556	dead	1	male	old	nokins
+557	live	1	female	adult	haskins
+558	dead	1	male		nokins
+559	live	1	female	adult	haskins
+560	live	3	female	adult	haskins
+561	dead	3	male		nokins
+562	dead	3	male	adult	nokins
+563	dead	2	male	adult	nokins
+564	dead	3	male		nokins
+565	dead	3	female		nokins
+566	dead	3	male	adult	haskins
+567	dead	3	male	adult	nokins
+568	dead	3	female	adult	haskins
+569	dead	3	male		nokins
+570	live	3	male	adult	nokins
+571	live	2	male	old	nokins
+572	live	1	female	adult	haskins
+573	live	1	male	adult	nokins
+574	live	3	female		nokins
+575	dead	3	male	teen	nokins
+576	dead	3	male	adult	nokins
+577	live	2	female	adult	nokins
+578	live	1	female	adult	haskins
+579	dead	3	female		haskins
+580	live	3	male	adult	nokins
+581	live	2	female	adult	haskins
+582	live	1	female	adult	haskins
+583	dead	2	male	adult	nokins
+584	dead	1	male	adult	nokins
+585	dead	3	male		nokins
+586	live	1	female	adult	haskins
+587	dead	2	male	adult	nokins
+588	live	1	male	old	haskins
+589	dead	3	male	adult	nokins
+590	dead	3	male		nokins
+591	dead	3	male	adult	nokins
+592	live	1	female	adult	haskins
+593	dead	3	male	adult	nokins
+594	dead	3	female		haskins
+595	dead	2	male	adult	haskins
+596	dead	3	male	adult	haskins
+597	live	2	female		nokins
+598	dead	3	male	adult	nokins
+599	dead	3	male		nokins
+600	live	1	male	adult	haskins
+601	live	2	female	adult	haskins
+602	dead	3	male		nokins
+603	dead	1	male		nokins
+604	dead	3	male	adult	nokins
+605	live	1	male	adult	nokins
+606	dead	3	male	adult	haskins
+607	dead	3	male	adult	nokins
+608	live	1	male	adult	nokins
+609	live	2	female	adult	haskins
+610	live	1	female	adult	nokins
+611	dead	3	female	adult	haskins
+612	dead	3	male		nokins
+613	live	3	female		haskins
+614	dead	3	male		nokins
+615	dead	3	male	adult	nokins
+616	live	2	female	adult	haskins
+617	dead	3	male	adult	haskins
+618	dead	3	female	adult	haskins
+619	live	2	female	teen	haskins
+620	dead	2	male	adult	nokins
+621	dead	3	male	adult	haskins
+622	live	1	male	adult	haskins
+623	live	3	male	adult	haskins
+624	dead	3	male	adult	nokins
+625	dead	3	male	adult	nokins
+626	dead	1	male	old	nokins
+627	dead	2	male	old	nokins
+628	live	1	female	adult	nokins
+629	dead	3	male	adult	nokins
+630	dead	3	male		nokins
+631	live	1	male	old	nokins
+632	dead	3	male	adult	nokins
+633	live	1	male	adult	nokins
+634	dead	1	male		nokins
+635	dead	3	female	teen	haskins
+636	live	2	female	adult	nokins
+637	dead	3	male	adult	nokins
+638	dead	2	male	adult	haskins
+639	dead	3	female	adult	haskins
+640	dead	3	male		haskins
+641	dead	3	male	adult	nokins
+642	live	1	female	adult	nokins
+643	dead	3	female	teen	haskins
+644	live	3	male		nokins
+645	live	3	female	teen	haskins
+646	live	1	male	adult	haskins
+647	dead	3	male	adult	nokins
+648	live	1	male	old	nokins
+649	dead	3	male		nokins
+650	live	3	female	adult	nokins
+651	dead	3	male		nokins
+652	live	2	female	adult	haskins
+653	dead	3	male	adult	nokins
+654	live	3	female		nokins
+655	dead	3	female	adult	nokins
+656	dead	2	male	adult	haskins
+657	dead	3	male		nokins
+658	dead	3	female	adult	haskins
+659	dead	2	male	adult	nokins
+660	dead	1	male	old	haskins
+661	live	1	male	adult	haskins
+662	dead	3	male	adult	nokins
+663	dead	1	male	adult	nokins
+664	dead	3	male	adult	nokins
+665	live	3	male	adult	haskins
+666	dead	2	male	adult	haskins
+667	dead	2	male	adult	nokins
+668	dead	3	male		nokins
+669	dead	3	male	adult	nokins
+670	live	1	female		haskins
+671	live	2	female	adult	haskins
+672	dead	1	male	adult	haskins
+673	dead	2	male	old	nokins
+674	live	2	male	adult	nokins
+675	dead	2	male		nokins
+676	dead	3	male	adult	nokins
+677	dead	3	male	adult	nokins
+678	live	3	female	adult	nokins
+679	dead	3	female	adult	haskins
+680	live	1	male	adult	haskins
+681	dead	3	female		nokins
+682	live	1	male	adult	nokins
+683	dead	3	male	adult	nokins
+684	dead	3	male	teen	haskins
+685	dead	2	male	old	haskins
+686	dead	2	male	adult	haskins
+687	dead	3	male	teen	haskins
+688	dead	3	male	adult	nokins
+689	dead	3	male	adult	nokins
+690	live	1	female	teen	haskins
+691	live	1	male	adult	haskins
+692	live	3	female	teen	haskins
+693	live	3	male		nokins
+694	dead	3	male	adult	nokins
+695	dead	1	male	old	nokins
+696	dead	2	male	adult	nokins
+697	dead	3	male	adult	nokins
+698	live	3	female		nokins
+699	dead	1	male	adult	haskins
+700	dead	3	male	adult	nokins
+701	live	1	female	adult	haskins
+702	live	1	male	adult	nokins
+703	dead	3	female	adult	haskins
+704	dead	3	male	adult	nokins
+705	dead	3	male	adult	haskins
+706	dead	2	male	adult	nokins
+707	live	2	female	adult	nokins
+708	live	1	male	adult	nokins
+709	live	1	female	adult	nokins
+710	live	3	male		haskins
+711	live	1	female	adult	nokins
+712	dead	1	male		nokins
+713	live	1	male	adult	haskins
+714	dead	3	male	adult	nokins
+715	dead	2	male	adult	nokins
+716	dead	3	male	adult	nokins
+717	live	1	female	adult	nokins
+718	live	2	female	adult	nokins
+719	dead	3	male		nokins
+720	dead	3	male	adult	nokins
+721	live	2	female	teen	haskins
+722	dead	3	male	teen	haskins
+723	dead	2	male	adult	nokins
+724	dead	2	male	adult	nokins
+725	live	1	male	adult	haskins
+726	dead	3	male	adult	nokins
+727	live	2	female	adult	haskins
+728	live	3	female		nokins
+729	dead	2	male	adult	haskins
+730	dead	3	female	adult	haskins
+731	live	1	female	adult	nokins
+732	dead	3	male	teen	nokins
+733	dead	2	male		nokins
+734	dead	2	male	adult	nokins
+735	dead	2	male	adult	nokins
+736	dead	3	male	adult	nokins
+737	dead	3	female	adult	haskins
+738	live	1	male	adult	nokins
+739	dead	3	male		nokins
+740	dead	3	male		nokins
+741	live	1	male		nokins
+742	dead	1	male	adult	haskins
+743	live	1	female	adult	haskins
+744	dead	3	male	adult	haskins
+745	live	3	male	adult	nokins
+746	dead	1	male	old	haskins
+747	dead	3	male	teen	haskins
+748	live	2	female	adult	nokins
+749	dead	1	male	adult	haskins
+750	dead	3	male	adult	nokins
+751	live	2	female	teen	haskins
+752	live	3	male	teen	haskins
+753	dead	3	male	adult	nokins
+754	dead	3	male	adult	nokins
+755	live	2	female	adult	haskins
+756	live	2	male	teen	haskins
+757	dead	3	male	adult	nokins
+758	dead	2	male	adult	nokins
+759	dead	3	male	adult	nokins
+760	live	1	female	adult	nokins
+761	dead	3	male		nokins
+762	dead	3	male	adult	nokins
+763	live	3	male	adult	nokins
+764	live	1	female	adult	haskins
+765	dead	3	male	teen	nokins
+766	live	1	female	adult	haskins
+767	dead	1	male		nokins
+768	dead	3	female	adult	nokins
+769	dead	3	male		haskins
+770	dead	3	male	adult	nokins
+771	dead	3	male	adult	nokins
+772	dead	3	male	adult	nokins
+773	dead	2	female	old	nokins
+774	dead	3	male		nokins
+775	live	2	female	adult	haskins
+776	dead	3	male	adult	nokins
+777	dead	3	male		nokins
+778	live	3	female	teen	nokins
+779	dead	3	male		nokins
+780	live	1	female	adult	haskins
+781	live	3	female	teen	nokins
+782	live	1	female	teen	haskins
+783	dead	1	male	adult	nokins
+784	dead	3	male		haskins
+785	dead	3	male	adult	nokins
+786	dead	3	male	adult	nokins
+787	live	3	female	adult	nokins
+788	dead	3	male	teen	haskins
+789	live	3	male	teen	haskins
+790	dead	1	male	adult	nokins
+791	dead	3	male		nokins
+792	dead	2	male	teen	nokins
+793	dead	3	female		haskins
+794	dead	1	male		nokins
+795	dead	3	male	adult	nokins
+796	dead	2	male	adult	nokins
+797	live	1	female	adult	nokins
+798	live	3	female	adult	nokins
+799	dead	3	male	adult	nokins
+800	dead	3	female	adult	haskins
+801	dead	2	male	adult	nokins
+802	live	2	female	adult	haskins
+803	live	1	male	teen	haskins
+804	live	3	male	teen	haskins
+805	live	3	male	adult	nokins
+806	dead	3	male	adult	nokins
+807	dead	1	male	adult	nokins
+808	dead	3	female	adult	nokins
+809	dead	2	male	adult	nokins
+810	live	1	female	adult	haskins
+811	dead	3	male	adult	nokins
+812	dead	3	male	adult	nokins
+813	dead	2	male	adult	nokins
+814	dead	3	female	teen	haskins
+815	dead	3	male	adult	nokins
+816	dead	1	male		nokins
+817	dead	3	female	adult	nokins
+818	dead	2	male	adult	haskins
+819	dead	3	male	adult	nokins
+820	dead	3	male	teen	haskins
+821	live	1	female	adult	haskins
+822	live	3	male	adult	nokins
+823	dead	1	male	adult	nokins
+824	live	3	female	adult	haskins
+825	dead	3	male	teen	haskins
+826	dead	3	male		nokins
+827	dead	3	male		nokins
+828	live	2	male	teen	haskins
+829	live	3	male		nokins
+830	live	1	female	old	nokins
+831	live	3	female	teen	haskins
+832	live	2	male	teen	haskins
+833	dead	3	male		nokins
+834	dead	3	male	adult	nokins
+835	dead	3	male	adult	nokins
+836	live	1	female	adult	haskins
+837	dead	3	male	adult	nokins
+838	dead	3	male		nokins
+839	live	3	male	adult	nokins
+840	live	1	male		nokins
+841	dead	3	male	adult	nokins
+842	dead	2	male	teen	nokins
+843	live	1	female	adult	nokins
+844	dead	3	male	adult	nokins
+845	dead	3	male	teen	nokins
+846	dead	3	male	adult	nokins
+847	dead	3	male		haskins
+848	dead	3	male	adult	nokins
+849	dead	2	male	adult	haskins
+850	live	1	female		haskins
+851	dead	3	male	teen	haskins
+852	dead	3	male	old	nokins
+853	dead	3	female	teen	haskins
+854	live	1	female	teen	haskins
+855	dead	2	female	adult	haskins
+856	live	3	female	adult	haskins
+857	live	1	female	adult	haskins
+858	live	1	male	adult	nokins
+859	live	3	female	adult	haskins
+860	dead	3	male		nokins
+861	dead	3	male	adult	haskins
+862	dead	2	male	adult	haskins
+863	live	1	female	adult	nokins
+864	dead	3	female		haskins
+865	dead	2	male	adult	nokins
+866	live	2	female	adult	nokins
+867	live	2	female	adult	haskins
+868	dead	1	male	adult	nokins
+869	dead	3	male		nokins
+870	live	3	male	teen	haskins
+871	dead	3	male	adult	nokins
+872	live	1	female	adult	haskins
+873	dead	1	male	adult	nokins
+874	dead	3	male	adult	nokins
+875	live	2	female	adult	haskins
+876	live	3	female	teen	nokins
+877	dead	3	male	adult	nokins
+878	dead	3	male	adult	nokins
+879	dead	3	male		nokins
+880	live	1	female	old	haskins
+881	live	2	female	adult	haskins
+882	dead	3	male	adult	nokins
+883	dead	3	female	adult	nokins
+884	dead	2	male	adult	nokins
+885	dead	3	male	adult	nokins
+886	dead	3	female	adult	haskins
+887	dead	2	male	adult	nokins
+888	live	1	female	adult	nokins
+889	dead	3	female		haskins
+890	live	1	male	adult	nokins
+891	dead	3	male	adult	nokins
